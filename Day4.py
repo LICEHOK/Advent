@@ -1,4 +1,3 @@
-import numpy as np
 summary1 = []
 with open("input4.txt") as input:
     lines = input.readlines()
